@@ -89,7 +89,9 @@ vertical-align:baseline;
 	float: left;
 }
 
-
+.text-center{
+	text-align: center;
+}
 
 
 
